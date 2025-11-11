@@ -72,7 +72,7 @@ Printable-pdfs/Free/
 
 ### 🎨 Design Philosophy
 
-The 4to1 system uses a **4-color progression** that corresponds to time horizons:
+The 4To1 Method uses a **4-color progression** that corresponds to time horizons:
 
 - **Vision Blue** 🔵 - 4 Years (Strategic thinking)
 - **Growth Green** 🟢 - 3 Months (Milestones)
@@ -102,7 +102,7 @@ In our hyper-digital world, putting pen to paper:
 
 - **Website**: [schedule-book.cc](https://schedule-book.cc)
 - **Questions?** Open an [Issue](../../issues)
-- **Success Stories**: We'd love to hear how you use the 4to1 system!
+- **Success Stories**: We'd love to hear how you use the 4To1 Method!
 - **Notion Templates**: Available for digital integration
 
 ### 📚 Documentation
@@ -152,9 +152,9 @@ Visit [schedule-book.cc](https://schedule-book.cc) to explore premium products.
 
 ## 中文
 
-### 🌟 什么是4to1规划器？
+### 🌟 什么是肆壹手账？
 
-4to1规划器是一个**免费开源的生产力系统**，旨在帮助您跨越四个时间维度规划和执行目标：
+肆壹手账是一个**免费开源的生产力系统**，旨在帮助您跨越四个时间维度规划和执行目标：
 
 - 🔵 **4年** - 您的长期战略愿景
 - 🟢 **3个月** - 带甘特图风格跟踪的季度里程碑
@@ -208,7 +208,7 @@ Printable-pdfs/Free/
 
 ### 🎨 设计理念
 
-4to1系统使用**四色渐进**对应时间维度：
+“4To1方法”使用**四色渐进**对应时间维度：
 
 - **愿景蓝** 🔵 - 4年（战略思考）
 - **成长绿** 🟢 - 3个月（里程碑）
@@ -323,7 +323,7 @@ Please open an issue or submit a pull request.
 
 ## 💬 Testimonials | 用户评价
 
-> "I've been using the 4to1 system for 6 years. It transformed how I think about goals - not as annual resolutions, but as multi-year journeys."
+> "I've been using the 4To1 Method for 6 years. It transformed how I think about goals - not as annual resolutions, but as multi-year journeys."
 > *- Creator of the system | Mark Zhou*
 
 **Have your own success story?** Share it by opening an issue with the "testimonial" label!
