@@ -100,7 +100,7 @@ In our hyper-digital world, putting pen to paper:
 
 ### 🌐 Community & Support
 
-- **Website**: [schedule-book.cc](https://schedule-book.cc)
+- **Website**: [4to1planner.com](https://4to1planner.com)
 - **Questions?** Open an [Issue](../../issues)
 - **Success Stories**: We'd love to hear how you use the 4To1 Method!
 - **Notion Templates**: Available for digital integration
@@ -129,7 +129,7 @@ This project is licensed under [**CC BY-NC-SA 4.0**](LICENSE):
 - ✅ **Share** with attribution
 - ❌ **Cannot sell** or use commercially without permission
 
-For commercial licensing options, visit [schedule-book.cc](https://schedule-book.cc)
+For commercial licensing options, visit [4to1planner.com](https://4to1planner.com)
 
 See the [LICENSE](LICENSE) file for full legal terms.
 
@@ -146,7 +146,7 @@ The free version is just the beginning! Check out our premium offerings:
 - 📖 **Physical Planners** - Professionally printed and bound
 - 🎓 **Strategic Planning Academy** - Learn to master the 4to1 Method™
 
-Visit [schedule-book.cc](https://schedule-book.cc) to explore premium products.
+Visit [4to1planner.com](https://4to1planner.com) to explore premium products.
 
 ---
 
@@ -236,7 +236,7 @@ Printable-pdfs/Free/
 
 ### 🌐 社区与支持
 
-- **网站**：[schedule-book.cc](https://schedule-book.cc)
+- **网站**：[4to1planner.com](https://4to1planner.com)
 - **问题？** 提交[Issue](../../issues)
 - **成功故事**：我们很想听听您如何使用4to1系统！
 - **Notion模板**：可用于数字集成
@@ -257,7 +257,7 @@ Printable-pdfs/Free/
 - ✅ **分享** 需注明出处
 - ❌ **不能销售** 或未经许可用于商业用途
 
-商业许可选项，请访问 [schedule-book.cc](https://schedule-book.cc)
+商业许可选项，请访问 [4to1planner.com](https://4to1planner.com)
 
 完整法律条款请查看 [LICENSE](LICENSE) 文件。
 
@@ -274,20 +274,30 @@ Printable-pdfs/Free/
 - 📖 **实体规划器** - 专业印刷和装订
 - 🎓 **战略规划学院** - 学习掌握4to1方法™
 
-访问 [schedule-book.cc](https://schedule-book.cc) 探索高级产品。
+访问 [4to1planner.com](https://4to1planner.com) 探索高级产品。
 
 ---
 
 ## 📸 Preview | 预览
 
-<details>
-<summary>Click to see sample pages | 点击查看示例页面</summary>
+### 🔵 4-Year Strategic Plan | 四年战略计划
+*Define your long-term vision with clear milestones | 用清晰的里程碑定义您的长期愿景*
 
-*Sample images will be added here showcasing the main components of the planner system.*
+![4-Year Plan](公开版assets/4-year-plan-nanobanana_BW.png)
 
-*此处将添加展示规划器系统主要组件的示例图像。*
+---
 
-</details>
+### 🟢 3-Month Gantt Log | 三月甘特图日志
+*Track quarterly progress with visual timelines | 用可视化时间线跟踪季度进展*
+
+![3-Month Log](公开版assets/3-month-log-nanobanana_BW.jpg)
+
+---
+
+### 🟠 1 Day in a Week Tracking Sheet | 周跟踪表
+*Gamified weekly task tracking with progress bars | 带进度条的游戏化周任务跟踪*
+
+![1 Day in a Week](公开版assets/wts-nanobanana_BW.jpg)
 
 ---
 
@@ -314,7 +324,7 @@ Please open an issue or submit a pull request.
 ## 🗺️ Roadmap | 路线图
 
 - [x] Open-source FREE tier release
-- [ ] Add preview images to README
+- [x] Add preview images to README
 - [ ] Create video tutorials
 - [ ] Notion-based planner support
 - [ ] Community templates gallery
@@ -334,7 +344,7 @@ Please open an issue or submit a pull request.
 
 ## 🔗 Links | 链接
 
-- 🌐 **Official Website** | **官方网站**: [schedule-book.cc](https://schedule-book.cc)
+- 🌐 **Official Website** | **官方网站**: [4to1planner.com](https://4to1planner.com)
 - 📘 **Facebook**: Coming soon
 - 📸 **Instagram**: Coming soon
 - 🐦 **Twitter**: Coming soon
@@ -348,4 +358,4 @@ Please open an issue or submit a pull request.
 
 ---
 
-*Last Updated: 2025-11-11*
+*Last Updated: 2025-12-02*
